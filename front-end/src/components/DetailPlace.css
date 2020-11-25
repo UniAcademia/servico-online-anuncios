@@ -1,0 +1,38 @@
+.card-place {
+    margin-left: 7px;
+    max-width: 307px;
+    width: auto;
+}
+
+.container-place {
+    width: 100%;
+}
+
+.img-background-place {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.title-place {
+    margin-top: 5px;
+}   
+
+.description-place {
+    max-width: 100%;
+    text-align: justify;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.info-item-place {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.text-info-item-place {
+    max-width: 260px;
+    text-align: justify;
+    margin-left: 15px;
+    font-size: 14px;
+}

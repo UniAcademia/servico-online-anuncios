@@ -1,0 +1,83 @@
+.no-background {
+    background: transparent;
+    box-shadow: unset;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin: auto;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-box {
+    max-width: 650px;
+    margin-right: 50px;
+}
+
+.login-image {
+    width: 100%;
+}
+
+.login-box {
+    width: 510px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.05), 0px 4px 16px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding: 36px 50px;
+    background-color: #fff;
+    align-self: center;
+}
+
+.title-text {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.div-input {
+    min-height: 65px;
+}
+
+.login-input {
+    width: 100%;
+    padding: 13px 20px;
+}
+
+.entrar-button {
+    border: 2px solid #B13333;
+    color: white;
+    transition: .3s;
+    background: #B13333;
+    height: 50px;
+    border-radius: 8px;
+    padding: 0 10px 0 10px;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.entrar-button:hover {
+    color: #B13333 !important;
+    background: transparent;
+}
+
+.box-cadastro {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.link-cadastro {
+    font-weight: 500;
+    font-size: 1rem;
+    color: #B13333;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
+
+.link-cadastro:hover {
+    color: #993939;
+}
